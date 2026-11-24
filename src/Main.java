@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("2+4+5="+2+4+5);
+        System.out.println((2+4+5)+2+4+5);
     }
 }
